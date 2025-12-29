@@ -2,7 +2,7 @@
   <img src="banner.gif" alt="Profile Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm ABHISHEK</h1>
+<h1 align="center">Hi 👋, I'm Shlok</h1>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek10806&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek10806" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokasthana73&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek10806" /> </p>
 
 ---
 
@@ -22,10 +22,10 @@
   <a href="https://www.linkedin.com/in/abhishek-114951369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pandey2005ab@gmail.com">
+  <a href="mailto:shlokasthana73@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/thisi.sabhishek05">
+  <a href="https://instagram.com/shlokasth73">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -91,20 +91,20 @@
 
 ##  🚀 Projects & Assignments
 
--   https://github.com/ABHISHEK10806/NEURAL-NETWORK-ARCHITECTURES.git
--   https://github.com/ABHISHEK10806/ANN-PROJECT.git
--   https://github.com/ABHISHEK10806/BUSINESS-INTELLIGENCE.git
--   https://github.com/ABHISHEK10806/Machine-Learning-Models.git
--   https://github.com/ABHISHEK10806/Expert-Python-Programming.git
--   https://github.com/ABHISHEK10806/Unstructured-Database.git
--   https://github.com/ABHISHEK10806/Insight-Analytics.git
+-   https://github.com/shlokasthana73/Neural-Network-Architectures.git
+-   https://github.com/shlokasthana73/ANN-PROJECT.git
+-   https://github.com/shlokasthana73/Business-Intelligence.git
+-   https://github.com/shlokasthana73/Machine-Learning-Models.git
+-   https://github.com/shlokasthana73/Natural-Language-Processing.git
+-   https://github.com/shlokasthana73/Cloud-Technology.git
+-   https://github.com/shlokasthana73/Text-Classifier.git
 
 ---
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishek10806&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhishek10806&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek10806&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shlokasthana73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shlokasthana73&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shlokasthana73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
